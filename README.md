@@ -10,3 +10,6 @@ Sordle is an iOS application designed to solve Wordle puzzles. The application l
 
 ## Getting Started
 Clone the repository and open the project in Xcode. Run the project on an iOS simulator or a physical device to start solving Wordle puzzles.
+
+## Demo
+[![Watch the video](http://img.youtube.com/vi/cMmQPt0_nxU/0.jpg)](http://www.youtube.com/watch?v=cMmQPt0_nxU "Watch the video")
